@@ -59,3 +59,4 @@ Usamos o comando CREATE DATABASE cidade;
 `sudo systemctle restart postgresql` = é a reportação e aplicação.
 
 `sudo systectle status postgresql` = é a verificação do status da aplicação.
+
